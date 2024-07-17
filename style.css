@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+@import url('styles/header.css');
+
+:root {
+    --cor-de-fundo: #000000;
+    --cor-principal: #FFFFFF;
+    --cor-secundaria: #EB9B00;
+    --cor-terciaria: #023890;
+    --cor-degrade: linear-gradient(45deg, #001e35, #0063af);
+    --fonte-principal: "Fjalla One";
+    
+}
+
+
+
+body {
+    background-color: var(--cor-de-fundo );
+    font-family: var(--fonte-principal);
+    text-align: center;
+}
