@@ -3,6 +3,8 @@
 ##Descrição
 Culturama é um projeto desenvolvido com o objetivo de melhorar minhas habilidades e aprofundar meus conhecimentos em Flexbox e Grid no CSS. Este projeto apresenta uma plataforma fictícia dedicada à promoção de eventos culturais, oferecendo uma interface moderna e responsiva.
 
+Vercel link: https://vercel.com/alexsanders-projects-27e8c1d0/culturama
+
 ##Objetivos
 Aprimorar a habilidade no uso de Flexbox para criar layouts flexíveis.
 Aprender e aplicar o CSS Grid para a criação de layouts complexos.
