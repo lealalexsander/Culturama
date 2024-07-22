@@ -41,12 +41,10 @@ Para clonar e executar este projeto em seu ambiente local, siga as instruções 
 
 ## Clone o repositório:
 
-bash
 Copiar código
 git clone https://github.com/seu-usuario/culturama.git
 Navegue até o diretório do projeto:
 
-bash
 Copiar código
 cd culturama
 Abra o arquivo index.html no seu navegador preferido.
