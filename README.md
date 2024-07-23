@@ -1,67 +1,65 @@
-# Culturama
+![thumbnail-Praticando CSS_ Grid e Flexbox](https://user-images.githubusercontent.com/76708357/191305858-3d53d611-1ad9-4c3c-b11a-79ff9713153a.png)
 
-## Descrição
-Culturama é um projeto desenvolvido pela Alura com o objetivo de melhorar minhas habilidades e aprofundar meus conhecimentos em Flexbox e Grid no CSS. Este projeto apresenta uma plataforma fictícia dedicada à promoção de eventos culturais, oferecendo uma interface moderna e responsiva.
+# ![image](https://user-images.githubusercontent.com/76708357/191308741-fb59ba6c-8750-4e09-873b-6ab2e96225b7.png) Culturama 
 
-Vercel link: https://vercel.com/alexsanders-projects-27e8c1d0/culturama
+### Projeto desenvolvido por Alura, feito por Alexsander Leal.
 
-## Objetivos
-Aprimorar a habilidade no uso de Flexbox para criar layouts flexíveis.
-Aprender e aplicar o CSS Grid para a criação de layouts complexos.
-Criar uma interface de usuário responsiva que funcione bem em diferentes tamanhos de tela.
+## Descrição do Projeto
+Culturama é um site para divulgação de eventos culturais, desenvolvido como parte de um curso para aprimorar habilidades em CSS Grid e Flexbox. O design do projeto pode ser acessado no [Figma](https://www.figma.com/file/mC6DmuXPGWHYkMWOQD3khm/2713---Praticando-CSS%3A-Grid-e-Flexbox?node-id=79%3A289).
 
-## Tecnologias Utilizadas
-HTML5
-CSS3 (com ênfase em Flexbox e Grid)
-JavaScript (se aplicável)
-[Any other tools or libraries used]
+## Técnicas e Tecnologias Utilizadas
 
-## Funcionalidades
-Página inicial apresentando os eventos culturais mais recentes.
-Página de detalhes do evento com informações específicas.
-Seção de contato para dúvidas e feedback.
-Layout responsivo para dispositivos móveis, tablets e desktops.
+### HTML
+O HTML foi utilizado para criar a estrutura básica do Culturama, organizando os conteúdos e definindo a hierarquia dos elementos na página.
 
-## Estrutura do Projeto
-css
-Copiar código
-Culturama/
-├── index.html
-├── css/
-│   ├── styles.css
-│   ├── flexbox.css
-│   └── grid.css
-├── js/
-│   └── main.js
-├── images/
-│   └── (images used in the project)
-└── README.md
-Instalação
-Para clonar e executar este projeto em seu ambiente local, siga as instruções abaixo:
+### CSS
+O CSS foi empregado para estilizar o site, dando vida ao projeto e assegurando a correta disposição dos elementos através do uso de **Flexbox** e **Grid**.
 
-## Clone o repositório:
+#### Propriedades Abordadas:
 
-Copiar código
-git clone https://github.com/seu-usuario/culturama.git
-Navegue até o diretório do projeto:
+- **Flexbox**:
+  - `display: flex;`
+  - `flex-direction`
+  - `flex-wrap`
+  - `flex-grow`
+  - `order`
 
-Copiar código
-cd culturama
-Abra o arquivo index.html no seu navegador preferido.
+- **Grid**:
+  - `display: grid;`
+  - `grid-column` e `grid-row`
+  - `grid-area`
+  - `grid-template-areas`
+  - `grid-template-columns`
+  - `column-gap`, `gap` e `row-gap`
+  - `align` e `justify`
 
-Uso
-Acesse a página inicial para visualizar os eventos culturais. Navegue pelas páginas de detalhes para obter mais informações sobre cada evento. Utilize a seção de contato para enviar dúvidas ou feedback.
+## 🛠️ Como Abrir e Rodar o Projeto
 
-## Capturas de Tela
-Ainda vazio
+Para abrir e rodar o projeto, basta seguir os seguintes passos:
 
-## Autor
-Alexsander Leal
+1. **Clone o repositório:**
+    ```bash
+    git clone https://github.com/seu-usuario/culturama.git
+    ```
+2. **Navegue até o diretório do projeto:**
+    ```bash
+    cd culturama
+    ```
+3. **Abra o arquivo `index.html` no navegador:**
+    - No terminal:
+        ```bash
+        open index.html
+        ```
+    - Ou manualmente, através do explorador de arquivos.
 
-GitHub
-LinkedIn
-Licença
-Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+## 📸 Capturas de Tela
 
-## Agradecimentos
-Gostaria de agradecer a todos que contribuíram para o meu aprendizado e desenvolvimento deste projeto. #100DaysOfCode #CSSFlexbox #CSSGrid #WebDevelopment
+### Página Inicial
+![Home Page](path/para/sua/imagem/homepage.png)
+
+### Detalhes do Evento
+![Event Details Page](path/para/sua/imagem/event-details.png)
+
+---
+
+Espero que isso tenha ajudado a estruturar melhor o README do seu projeto! Se precisar de mais alguma coisa, é só avisar.
